@@ -1,0 +1,5 @@
+2015-01-01 - Version 1.1
+As of Jan 01, 2015 this theme is mainined and supported by FlexiThemes.com. Only the theme meta data was updtaed therefore upgrading from the previous version is not required.
+
+2014-11-14 - Version 1.0
+* Initial theme release!
