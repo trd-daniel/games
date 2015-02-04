@@ -27,7 +27,7 @@ define('DB_NAME', 'games');
 define('DB_USER', 'root');
 
 /** MySQL データベースのパスワード */
-define('DB_PASSWORD', 'trscebu123');
+define('DB_PASSWORD', '');
 
 /** MySQL のホスト名 */
 define('DB_HOST', 'localhost');
